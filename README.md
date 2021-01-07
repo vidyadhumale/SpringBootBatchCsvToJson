@@ -19,6 +19,8 @@ Steps:
 Check out project from "https://github.com/vidyadhumale/SpringBootBatchCsvToJson.git"
 Execute the Main class : SpringBatchCsvToJsonApplication.java
 
+CSV file present in resource folder(i.e employee.csv)
+
 Run the below rest services through POSTMAN
 ====================================================================
 
