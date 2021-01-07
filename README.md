@@ -24,5 +24,6 @@ Run the below rest services through POSTMAN
 
 GET:  http://localhost:8080/load
 
-Response : It will return the staus of JOB "COMPLETED" / "FAILED"
+Response : It will return the staus of JOB "COMPLETED" / "FAILED" and CSV data will written to employees.json file.
+If data is invalid, it will log error in log file for that data.
  
